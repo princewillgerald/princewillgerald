@@ -1,0 +1,5 @@
+- Hi, I'm Princewill Gerald 
+- I'm interested in computer programing,Data Science, AI, Swimming, Reading, Working out, Sharing informations and lot more
+- I'm currently learning CS50's Introduction to Computer Science
+- I'm looking forward to working with companies and collabrating on project or even a freelance project
+- How you could reach me via my email @princewill.gg@outlook.com
